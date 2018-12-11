@@ -1,0 +1,99 @@
+.hero-text {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+}
+
+.hero-header {
+  color: white;
+  font-size: 3em;
+}
+
+.hero-subheader {
+  color: white;
+  font-size: 1em;
+}
+
+
+.hero-body {
+  padding: 0;
+
+
+
+}
+
+.hero-img {
+  width: 100%;
+  }
+
+.sitebody {
+
+}
+
+.cta-full {
+  padding: 0;
+
+}
+
+.full-width {
+  max-width: none;
+  width: auto;
+}
+.cta1 {
+  background-color: lightcoral;
+  color: white;
+  text-align: center;
+  padding: 30px 0 50px 0;
+
+
+}
+
+.cta1 a {
+  border: .5px solid white;
+  padding: 10px 15px;
+  border-radius: 30px;
+  margin: 30px;
+  color: lightslategrey;
+}
+
+p {
+  margin: 20px;
+  font-weight: 100;
+}
+
+h1 {
+  color: aliceblue;
+}
+
+h2 {
+  color: #000;
+  font-size: larger;
+  font-weight: bold;
+}
+
+.coffee-cta {
+  background-color: peru;
+  text-align: center;
+  padding-top: 30px;
+}
+
+.beanback {
+  background-color: bisque;
+  height: 100px;
+  width: 100px;
+  margin: auto;
+  border-radius: 80px;
+}
+
+.beanicons {
+  position: relative;
+  top: 40%;
+}
+
+@media only screen and (max-width: 749px) {
+ .hero-text {
+
+ }
+}
