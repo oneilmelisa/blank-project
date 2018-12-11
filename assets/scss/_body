@@ -8,7 +8,8 @@
 
 .hero-header {
   color: white;
-  font-size: 3em;
+  font-size: 2em;
+  font-family: "Cabin Sketch";
 }
 
 .hero-subheader {
@@ -19,9 +20,6 @@
 
 .hero-body {
   padding: 0;
-
-
-
 }
 
 .hero-img {
@@ -55,7 +53,7 @@
   padding: 10px 15px;
   border-radius: 30px;
   margin: 30px;
-  color: lightslategrey;
+  color: indianred;
 }
 
 p {
@@ -71,26 +69,34 @@ h2 {
   color: #000;
   font-size: larger;
   font-weight: bold;
+  font-family: "Cabin Sketch";
 }
 
 .coffee-cta {
-  background-color: peru;
+  background-color: lightslategrey;
   text-align: center;
   padding-top: 30px;
 }
 
+.coffee-cta-txt {
+  margin: 20px;
+}
 .beanback {
-  background-color: bisque;
+  background-color: slategrey;
   height: 100px;
   width: 100px;
   margin: auto;
   border-radius: 80px;
 }
 
+
 .beanicons {
   position: relative;
-  top: 40%;
+  top: 26%;
+  width: 50px;
+  height: 50px;
 }
+
 
 @media only screen and (max-width: 749px) {
  .hero-text {
