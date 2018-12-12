@@ -56,6 +56,10 @@
   color: indianred;
 }
 
+a:hover {
+  border-color: indianred;
+}
+
 p {
   margin: 20px;
   font-weight: 100;
