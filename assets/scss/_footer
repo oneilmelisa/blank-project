@@ -3,3 +3,23 @@ footer p {
   margin: 5px;
 }
 
+.coffee-logo {
+  height: 75px;
+  width: auto;
+  margin-top: 10px;
+}
+
+footer div{
+  align-content: center;
+  vertical-align: center;
+}
+
+footer h3 {
+  font-size: large;
+  color: indianred;
+}
+
+footer li a{
+  font-size: smaller;
+  color: slategrey;
+}
