@@ -19,7 +19,7 @@
 }
 
 .navbar-dropdown {
-  background-color: whitesmoke;
+  background-color: white;
   border: none;
 }
 
@@ -37,4 +37,5 @@ a.navbar-item:hover, a.navbar-item.is-active,
 }
 .coffee-logo2 {
   height: 75px;
+  background-color: white;
 }
