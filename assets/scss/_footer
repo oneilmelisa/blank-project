@@ -21,5 +21,9 @@ footer h3 {
 
 footer li a{
   font-size: smaller;
-  color: slategrey;
+  color: black;
+}
+
+footer li:nth-child(even) {
+  background-color: indianred;
 }
